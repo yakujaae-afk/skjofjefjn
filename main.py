@@ -23,7 +23,7 @@
 
 import os
 from config import Config
-from pyrogram import Client
+from utils import progress_bar
 import asyncio, logging
 import tgcrypto
 from pyromod import listen
