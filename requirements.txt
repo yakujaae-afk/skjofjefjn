@@ -26,7 +26,6 @@ helper
 pyaes==1.6.1
 soupsieve==2.4.1
 urllib3==2.0.3
-websockets
 py-tgcalls==0.6.0
 motor
 pytz
