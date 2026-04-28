@@ -23,8 +23,7 @@
 
 import os
 from config import Config
-from pyrogram import Client, filters
-from pyrogram.types import Message
+from pyrogram import Client, idle
 import asyncio, logging
 import tgcrypto
 from pyromod import listen
